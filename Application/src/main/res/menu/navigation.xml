@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_progress"
+        android:icon="@drawable/ic_trending_up_black_24dp"
+        android:title="@string/title_progress" />
+
+    <item
+        android:id="@+id/all_history"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Статистика" />
+
+    <item
+        android:id="@+id/planner"
+        android:icon="@drawable/planner"
+        android:title="Планирование" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+
+</menu>

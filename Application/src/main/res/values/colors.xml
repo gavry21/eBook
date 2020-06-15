@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app palette -->
+    <color name="primary">#1976D2</color> <!-- Blue 700 -->
+    <color name="secondary">#F57C00</color> <!-- Orange 700 -->
+    <color name="error">#E53935</color> <!-- Red 600 -->
+    <color name="piechar1">#00BCD4</color>
+    <color name="piechar2">#4CAF50</color>
+
+</resources>

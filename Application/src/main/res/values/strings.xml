@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="search_lb">Поиск</string>
+    <string name="file_name">Название файла</string>
+    <string name="more_action">More</string>
+    <string name="dark_mode">Темная Тема</string>
+    <string name="light_mode">Светлая Тема</string>
+    <string name="title_home">Библиотека</string>
+    <string name="title_preferences">Preferences</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_progress">Прогресс</string>
+    <string name="save">Применить</string>
+    <string name="offline">Offline mode</string>
+    <string name="your_name">Your name</string>
+    <string name="developer">Developer</string>
+    <string name="designer">Designer</string>
+    <string name="preferences">Select your preferences</string>
+    <string name="progress_title">Ваша Активность</string>
+    <string name="speed_ch">Выбор режима</string>
+    <string name="speed1">Первая скорость</string>
+    <string name="speed2">Вторая скорость</string>
+    <string name="speed3">Третья скорость</string>
+<!--    <string name="preferences_explanation">Disclaimer: This screen will only be dark when Dark Mode is forced in the OS settings in Android Q and above.</string>-->
+
+</resources>

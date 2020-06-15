@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sofia\\Downloads\\android-DarkTheme-master\\android-DarkTheme-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sofia\\Downloads\\android-DarkTheme-master\\android-DarkTheme-master\\Application\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "6,7,8,4,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "205,262,305,81,141",
+                        "endColumns": "39,42,42,41,43",
+                        "endOffsets": "240,300,343,118,180"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,95,138,181,223",
+                        "endColumns": "39,42,42,41,43",
+                        "endOffsets": "90,133,176,218,262"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sofia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha05.aar\\034a500a040e754a0549fed1814b3cb2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,21",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "267,337,421,505,601,703,805,1657",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "332,416,500,596,698,800,894,1741"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sofia\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha05.aar\\4743461876630295bebd10b9563d71f1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,245,347,461,581,701",
+                        "endColumns": "87,101,101,113,119,119,111",
+                        "endOffsets": "138,240,342,456,576,696,808"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "899,987,1089,1191,1305,1425,1545",
+                        "endColumns": "87,101,101,113,119,119,111",
+                        "endOffsets": "982,1084,1186,1300,1420,1540,1652"
+                    }
+                }
+            ]
+        }
+    ]
+}

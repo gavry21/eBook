@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sofia\\Downloads\\android-DarkTheme-master\\android-DarkTheme-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sofia\\Downloads\\android-DarkTheme-master\\android-DarkTheme-master\\Application\\src\\main\\res\\values-v28\\arrays.xml",
+                    "from": {
+                        "startLines": "9,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "222,56",
+                        "endLines": "13,7",
+                        "endColumns": "19,19",
+                        "endOffsets": "361,216"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,199",
+                        "endLines": "6,11",
+                        "endColumns": "19,19",
+                        "endOffsets": "194,359"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sofia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha05.aar\\034a500a040e754a0549fed1814b3cb2\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "364,439,526,756",
+                        "endLines": "12,13,17,21",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "434,521,751,993"
+                    }
+                }
+            ]
+        }
+    ]
+}

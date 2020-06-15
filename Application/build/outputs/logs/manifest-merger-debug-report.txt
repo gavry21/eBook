@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:3:1-49:12
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:3:1-49:12
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:3:1-49:12
+MERGED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:2:1-46:12
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\4743461876630295bebd10b9563d71f1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\a7c57b866a21d2a544b0d5ebae1d9969\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.0-alpha04] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\preference-1.1.0-alpha04.aar\08430528c1c82588652e632380822c43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha05.aar\034a500a040e754a0549fed1814b3cb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\7e1d55bdf94732afed1e5e85c73b47ef\AndroidManifest.xml:2:1-20:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.2.0-beta.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-3.2.0-beta.1.aar\58415371537a6b2dde4cfe0afff92253\AndroidManifest.xml:2:1-11:12
+MERGED from [com.archit.calendar:awesome-calendar:1.1.6] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-awesome-calendar-1.1.6.aar\81008b6a9bbdbea35e88ae0fd436081d\AndroidManifest.xml:2:1-16:12
+MERGED from [com.artifex.mupdf:fitz:1.15.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\fitz-1.15.0.aar\096b9a58b65d6b49442d5429d679e7ab\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\af2c3b8bee97be0082bac5f24975ca55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.9.0.aar\96a2c31ed8bdc0c0b3c92d02c1c83bc4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\180a7de0f64c83600bfd0ff4cbb927e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\05646246ea36ec8d9ae3224d60f2ed10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\8a8b9dd2db7e7402bbf3be01c5ba57f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5ccebf790a3ea731ddca020c92cac45d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\e7ebe2a66a855365b84066729c641f46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\c507ceac242fe3e8041a18f2f01aa06e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha08.aar\f15aace104170f0b4348a6e287157dcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0-alpha05.aar\82e906daa142f37f84a792e48f5d97d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ea5edc147a239b659508d24cfefdc7c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4e85dae40f9f612815f05e389b2040a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5139def6ccd6f3078d565747e6700f4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\60dd44c8026b56a7c02a6affbd5f0526\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1dd1453f96fbc293b678249341192dcb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\fc154fa5a0de7d14167f213d2092851a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\459cee6d690a8d15aa85891ce714ba9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha08.aar\428f1859e37ff9f57dd52e170e734532\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0-beta01.aar\29299b46596cc41cf69e64dfc4983dbe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-beta01.aar\d4c1b68be6db92f48df507662dd31c96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\8f64423eda11d85e78a3c7cf5a2d2c63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-1.1.0-beta01.aar\e4d80ca9ba1a0cd9e05b0546f0b3f43f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\36da86feb15434ca25b775fc2aae8c4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ecac0da7c2787a47f2f2c29975fa0d46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f8eaa81ae168af673c0093d72b8e29d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\e7057fb64d6933413d77aba6d88f3885\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b3e72f88ce6d73a28023cf455c85968a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-beta01.aar\1b2ba0dea6765edaae8d3e9629b72d87\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0-alpha01.aar\389ef22441b4d21da0b6cd725d3ae950\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0-beta01.aar\04d300ea1aea45a96d41df0e3c53cbda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\63d5a9253d441d8c6eaab21e93435a80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\f5f02315d944af6b4309445b22d0cca3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ba660b186921953292d6ff721b0116a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0-alpha01.aar\9d903b87e8b11697025c8ae85155ea93\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:3:1-49:12
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:3:1-49:12
+	package
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:4:5-44
+	android:versionName
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:12:5-47:19
+MERGED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:9:5-44:19
+MERGED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:9:5-44:19
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\4743461876630295bebd10b9563d71f1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\4743461876630295bebd10b9563d71f1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\a7c57b866a21d2a544b0d5ebae1d9969\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\a7c57b866a21d2a544b0d5ebae1d9969\AndroidManifest.xml:9:5-20
+MERGED from [com.archit.calendar:awesome-calendar:1.1.6] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-awesome-calendar-1.1.6.aar\81008b6a9bbdbea35e88ae0fd436081d\AndroidManifest.xml:11:5-14:19
+MERGED from [com.archit.calendar:awesome-calendar:1.1.6] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-awesome-calendar-1.1.6.aar\81008b6a9bbdbea35e88ae0fd436081d\AndroidManifest.xml:11:5-14:19
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-1.1.0-beta01.aar\e4d80ca9ba1a0cd9e05b0546f0b3f43f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-1.1.0-beta01.aar\e4d80ca9ba1a0cd9e05b0546f0b3f43f\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-beta01.aar\1b2ba0dea6765edaae8d3e9629b72d87\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-beta01.aar\1b2ba0dea6765edaae8d3e9629b72d87\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-1.1.0-beta01.aar\e4d80ca9ba1a0cd9e05b0546f0b3f43f\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.archit.calendar:awesome-calendar:1.1.6] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-awesome-calendar-1.1.6.aar\81008b6a9bbdbea35e88ae0fd436081d\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:13:9-45
+activity#com.example.android.darktheme.MainActivity
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:19:9-30:20
+	android:label
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:25:27-74
+meta-data#android.app.searchable
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:28:13-29:54
+	android:resource
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:29:17-51
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:28:24-61
+activity#com.example.android.darktheme.ViewPDFFiles
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:32:9-34:48
+	android:label
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:33:13-41
+activity#com.example.android.darktheme.AllHistory
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:36:9-38:48
+	android:label
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:37:13-39
+activity#com.example.android.darktheme.Progress_Activity
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:40:9-42:48
+	android:label
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:41:13-46
+activity#com.example.android.darktheme.CalenderActivity
+ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:44:9-45:47
+	android:label
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml:44:19-51
+uses-sdk
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\4743461876630295bebd10b9563d71f1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\4743461876630295bebd10b9563d71f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\a7c57b866a21d2a544b0d5ebae1d9969\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\a7c57b866a21d2a544b0d5ebae1d9969\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.0-alpha04] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\preference-1.1.0-alpha04.aar\08430528c1c82588652e632380822c43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0-alpha04] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\preference-1.1.0-alpha04.aar\08430528c1c82588652e632380822c43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha05.aar\034a500a040e754a0549fed1814b3cb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha05.aar\034a500a040e754a0549fed1814b3cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\7e1d55bdf94732afed1e5e85c73b47ef\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\7e1d55bdf94732afed1e5e85c73b47ef\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.2.0-beta.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-3.2.0-beta.1.aar\58415371537a6b2dde4cfe0afff92253\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.2.0-beta.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-3.2.0-beta.1.aar\58415371537a6b2dde4cfe0afff92253\AndroidManifest.xml:7:5-9:41
+MERGED from [com.archit.calendar:awesome-calendar:1.1.6] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-awesome-calendar-1.1.6.aar\81008b6a9bbdbea35e88ae0fd436081d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.archit.calendar:awesome-calendar:1.1.6] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-awesome-calendar-1.1.6.aar\81008b6a9bbdbea35e88ae0fd436081d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.artifex.mupdf:fitz:1.15.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\fitz-1.15.0.aar\096b9a58b65d6b49442d5429d679e7ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.artifex.mupdf:fitz:1.15.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\fitz-1.15.0.aar\096b9a58b65d6b49442d5429d679e7ab\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\af2c3b8bee97be0082bac5f24975ca55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\af2c3b8bee97be0082bac5f24975ca55\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.9.0.aar\96a2c31ed8bdc0c0b3c92d02c1c83bc4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.9.0.aar\96a2c31ed8bdc0c0b3c92d02c1c83bc4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\180a7de0f64c83600bfd0ff4cbb927e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\180a7de0f64c83600bfd0ff4cbb927e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\05646246ea36ec8d9ae3224d60f2ed10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\05646246ea36ec8d9ae3224d60f2ed10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\8a8b9dd2db7e7402bbf3be01c5ba57f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\8a8b9dd2db7e7402bbf3be01c5ba57f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5ccebf790a3ea731ddca020c92cac45d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5ccebf790a3ea731ddca020c92cac45d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\e7ebe2a66a855365b84066729c641f46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\e7ebe2a66a855365b84066729c641f46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\c507ceac242fe3e8041a18f2f01aa06e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\c507ceac242fe3e8041a18f2f01aa06e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha08.aar\f15aace104170f0b4348a6e287157dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha08.aar\f15aace104170f0b4348a6e287157dcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0-alpha05.aar\82e906daa142f37f84a792e48f5d97d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0-alpha05.aar\82e906daa142f37f84a792e48f5d97d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ea5edc147a239b659508d24cfefdc7c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ea5edc147a239b659508d24cfefdc7c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4e85dae40f9f612815f05e389b2040a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4e85dae40f9f612815f05e389b2040a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5139def6ccd6f3078d565747e6700f4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5139def6ccd6f3078d565747e6700f4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\60dd44c8026b56a7c02a6affbd5f0526\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\60dd44c8026b56a7c02a6affbd5f0526\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1dd1453f96fbc293b678249341192dcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1dd1453f96fbc293b678249341192dcb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\fc154fa5a0de7d14167f213d2092851a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\fc154fa5a0de7d14167f213d2092851a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\459cee6d690a8d15aa85891ce714ba9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\459cee6d690a8d15aa85891ce714ba9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha08.aar\428f1859e37ff9f57dd52e170e734532\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha08.aar\428f1859e37ff9f57dd52e170e734532\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0-beta01.aar\29299b46596cc41cf69e64dfc4983dbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0-beta01.aar\29299b46596cc41cf69e64dfc4983dbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-beta01.aar\d4c1b68be6db92f48df507662dd31c96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-beta01.aar\d4c1b68be6db92f48df507662dd31c96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\8f64423eda11d85e78a3c7cf5a2d2c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\8f64423eda11d85e78a3c7cf5a2d2c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-1.1.0-beta01.aar\e4d80ca9ba1a0cd9e05b0546f0b3f43f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-1.1.0-beta01.aar\e4d80ca9ba1a0cd9e05b0546f0b3f43f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\36da86feb15434ca25b775fc2aae8c4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\36da86feb15434ca25b775fc2aae8c4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ecac0da7c2787a47f2f2c29975fa0d46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\ecac0da7c2787a47f2f2c29975fa0d46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f8eaa81ae168af673c0093d72b8e29d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f8eaa81ae168af673c0093d72b8e29d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\e7057fb64d6933413d77aba6d88f3885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\e7057fb64d6933413d77aba6d88f3885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b3e72f88ce6d73a28023cf455c85968a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b3e72f88ce6d73a28023cf455c85968a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-beta01.aar\1b2ba0dea6765edaae8d3e9629b72d87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-beta01.aar\1b2ba0dea6765edaae8d3e9629b72d87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0-alpha01.aar\389ef22441b4d21da0b6cd725d3ae950\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.2.0-alpha01.aar\389ef22441b4d21da0b6cd725d3ae950\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0-beta01.aar\04d300ea1aea45a96d41df0e3c53cbda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0-beta01.aar\04d300ea1aea45a96d41df0e3c53cbda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\63d5a9253d441d8c6eaab21e93435a80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\63d5a9253d441d8c6eaab21e93435a80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\f5f02315d944af6b4309445b22d0cca3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\f5f02315d944af6b4309445b22d0cca3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ba660b186921953292d6ff721b0116a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ba660b186921953292d6ff721b0116a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0-alpha01.aar\9d903b87e8b11697025c8ae85155ea93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0-alpha01.aar\9d903b87e8b11697025c8ae85155ea93\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofia\Downloads\android-DarkTheme-master\android-DarkTheme-master\Application\src\main\AndroidManifest.xml
+activity#com.artifex.mupdf.viewer.DocumentActivity
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:10:9-39:20
+	android:configChanges
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:12:13-74
+	android:name
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:11:13-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/epub+zip+data:mimeType:application/oxps+data:mimeType:application/pdf+data:mimeType:application/vnd.ms-xpsdocument+data:mimeType:application/x-cbz+data:mimeType:text/xml
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:13:13-25:29
+action#android.intent.action.VIEW
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:14:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:16:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:17:17-78
+	android:name
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:17:27-75
+data
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:19:17-60
+	android:mimeType
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:19:23-57
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:pathPattern:.*\\.cbz+data:pathPattern:.*\\.epub+data:pathPattern:.*\\.fb2+data:pathPattern:.*\\.oxps+data:pathPattern:.*\\.pdf+data:pathPattern:.*\\.xps
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:26:13-38:29
+activity#com.artifex.mupdf.viewer.OutlineActivity
+ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:40:9-43:20
+	android:configChanges
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from [com.artifex.mupdf:viewer:1.15.1] C:\Users\Sofia\.gradle\caches\transforms-1\files-1.1\viewer-1.15.1.aar\0954daf3a6ad64cbe224d1285c67be7d\AndroidManifest.xml:41:13-68
